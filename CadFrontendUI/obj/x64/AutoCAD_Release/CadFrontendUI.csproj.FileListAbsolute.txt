@@ -1,6 +1,0 @@
-D:\C++ZWcadAUcad\C#\CadFrontendUI\bin\AutoCAD_Release\CadFrontendUI.dll
-D:\C++ZWcadAUcad\C#\CadFrontendUI\bin\AutoCAD_Release\CadFrontendUI.pdb
-D:\C++ZWcadAUcad\C#\CadFrontendUI\obj\x64\AutoCAD_Release\CadFrontendUI.csproj.AssemblyReference.cache
-D:\C++ZWcadAUcad\C#\CadFrontendUI\obj\x64\AutoCAD_Release\CadFrontendUI.csproj.CoreCompileInputs.cache
-D:\C++ZWcadAUcad\C#\CadFrontendUI\obj\x64\AutoCAD_Release\CadFrontendUI.dll
-D:\C++ZWcadAUcad\C#\CadFrontendUI\obj\x64\AutoCAD_Release\CadFrontendUI.pdb

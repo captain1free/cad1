@@ -1,0 +1,6 @@
+D:\C++ZWcadAUcad\C#\CadFrontendUI\bin\ZWCAD_Release\CadFrontendUI.dll
+D:\C++ZWcadAUcad\C#\CadFrontendUI\bin\ZWCAD_Release\CadFrontendUI.pdb
+D:\C++ZWcadAUcad\C#\CadFrontendUI\obj\x64\ZWCAD_Release\CadFrontendUI.csproj.AssemblyReference.cache
+D:\C++ZWcadAUcad\C#\CadFrontendUI\obj\x64\ZWCAD_Release\CadFrontendUI.csproj.CoreCompileInputs.cache
+D:\C++ZWcadAUcad\C#\CadFrontendUI\obj\x64\ZWCAD_Release\CadFrontendUI.dll
+D:\C++ZWcadAUcad\C#\CadFrontendUI\obj\x64\ZWCAD_Release\CadFrontendUI.pdb

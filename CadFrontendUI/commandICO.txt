@@ -1,0 +1,34 @@
+﻿***menugroup=Coal
+
+***POP1
+[坐标导入导出]
+     [坐标展点]_ELEVPOINTS
+     [展点颜色区分]_ELEVPOINTSCOLORDAT
+     [导出坐标]_EXPORT_ELEVPOINTS
+***POP2
+[三角网TIN]
+     [TIN差值计算]_CreateTIN
+     [三角网边界)]_TINBOUNDARY
+
+
+***POP3
+[疏浚断面]
+     [疏浚断面]_SJCALC
+
+***POP4
+[坐标转换]
+     [高斯坐标转经纬度]_TRANSCOORD_FAST
+
+
+  ***POP5
+[无人机航线]
+     [KML]_ExportPolylineToKml
+  
+    ***POP6
+[图框]
+     [使用说明]_DRAWFRAME
+ 
+
+  ***POP7
+[帮助]
+     [使用说明]_Z_SHOW_HELP
